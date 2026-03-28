@@ -1,4 +1,4 @@
-# API de Clientes com Fastify + TypeScript
+# API com Fastify + TypeScript
 
 Este projeto foi desenvolvido com foco em aprendizado prático para aperfeiçoar conceitos de Node.js com Fastify e introduzir conceitos fundamentais de TypeScript em uma API real integrando persistência de dados com Prisma e MongoDB.
 
